@@ -1,0 +1,144 @@
+#wrapper{
+	width: 1200px;
+	height: auto;
+	overflow: hidden;
+	margin: 0 auto;
+}
+#nav{
+	width: 1200px;
+	height: 30px;
+	border-bottom: 1px solid black;
+}
+.welcome{
+	font-size: 20px;
+	margin-left: 20px;
+}
+.login{
+	margin-left: 700px;
+}
+.marginleft20 {
+	margin-left: 20px;
+}
+#main{
+	width: 1200px;
+	height: auto;
+	padding: 20px;
+}
+img	{
+	height: 300px;
+	width: 250px;
+}
+.book{
+	display: inline-block;;
+	vertical-align: top;
+	width: 280px;
+	height: 520px;
+	margin: 5px;
+}
+.title{
+	font-size: 25px;
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: none;
+}
+.author{
+	font-size: 18px;
+}
+.price{
+	font-size: 18px;
+	color: red;
+}
+h1{
+	color: red;
+}
+#leftcontent, #rightcontent {
+	display: inline-block;
+	vertical-align: top;
+}
+#leftcontent {
+	margin-left: 100px;
+}
+#rightcontent {
+	width: 400px;
+	height: 700px;
+	padding: 20px;
+}
+.rating{
+	display: inline-block;
+	vertical-align: top;
+}
+.addreview{
+	width: 300px;
+	height: 100px;
+	border-radius: 10px;
+	padding: 10px;
+}
+#reviews{
+	height: 200px;
+	width: 400px;
+	border-radius: 5px;
+	border: 1px solid black;
+	overflow: scroll;
+	padding: 10px;
+}
+#cart {
+	margin: 0 auto;
+	width: 500px;
+}
+.carttitle {
+	width: 350px;
+}
+.count {
+	width: 50px;
+	font-size: 20px;
+}
+.remove{
+	margin-left: 30px;
+}
+.border{
+	border-top: 1px solid black;
+	height: 5s0px;
+}
+table{
+	border-collapse: collapse;
+}
+.web {
+	margin: 150px 0 0 700px;
+	width: 300px;
+
+
+}
+#search {
+
+	width: 1000px;
+}
+.uploadbtn {
+	width: 300px;
+	height: 30px;
+	font-size: 20px;
+}
+
+.logreg {
+	margin-left: 400px;
+}
+#upload {
+	width: 500px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+#order{
+	width: 500px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 auto;
+	padding: 20px;
+}
+.shipbtn {
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	border-radius: 10px;
+}
